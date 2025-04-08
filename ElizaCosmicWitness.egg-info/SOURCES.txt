@@ -1,0 +1,9 @@
+README.md
+setup.py
+Eliza/__init__.py
+Eliza/main.py
+ElizaCosmicWitness.egg-info/PKG-INFO
+ElizaCosmicWitness.egg-info/SOURCES.txt
+ElizaCosmicWitness.egg-info/dependency_links.txt
+ElizaCosmicWitness.egg-info/requires.txt
+ElizaCosmicWitness.egg-info/top_level.txt

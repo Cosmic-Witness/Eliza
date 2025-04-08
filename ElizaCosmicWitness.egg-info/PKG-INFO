@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: ElizaCosmicWitness
+Version: 0.1
+Summary: A trading assistant powered by CAPM
+Home-page: https://github.com/yourusername/Eliza
+Author: Ismail
+Author-email: you@example.com
+License: MIT
+Project-URL: Source, https://github.com/yourusername/Eliza
+Project-URL: Tracker, https://github.com/yourusername/Eliza/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: colorama
+Requires-Dist: yfinance
+Requires-Dist: statsmodels
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: summary
